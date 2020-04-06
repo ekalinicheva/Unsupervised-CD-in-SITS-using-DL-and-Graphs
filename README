@@ -2,3 +2,5 @@ This repository is not complete. Yet.
 This repository contains files relevant to the article "Unsupervised Change Detection Analysis in Satellite Image Time Series using Deep Learning Combined with Graph-Based Approaches"
 
 The files GT_Classes_Rostov2.TIF and GT_Classes_Montpellier1.TIF correspond to the groung truth for change clustering in SITS.
+
+Folder Set_covering contains scripts for graph creation and synopsis computation.
